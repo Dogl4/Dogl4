@@ -18,7 +18,7 @@
 📝 &nbsp; <b>About me</b>
 
 - :books: &nbsp;I'm currently studying web development at [Trybe](https://www.betrybe.com/).
-- :house_with_garden: &nbsp;I'm from Taubaté, SP - Brazil. Computer Technician for Internet by [Etec](https://www.vestibulinhoetec.com.br/unidades-cursos/?q=Taubate).
+- :house_with_garden: &nbsp;I'm from Taubaté, SP - Brazil. Computer Technician for Internet by Etec.
 - 🔭 &nbsp;Fascinated by topics such as: technology, investment and quality of life.
 - 🎮️ &nbsp;I like games like Don't Starve Together and CK3.
 - 🔗 &nbsp;₿itcoin enthusiast.
