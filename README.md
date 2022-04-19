@@ -10,17 +10,19 @@
   </h1>
 </div>
 
-🙋‍♂️ &nbsp;<b>Sobre mim</b>
-<!-- 📝 &nbsp; <b>Sobre mim</b> -->
-Meu nome é <b style="text-indent:1.5em;">Pedro Douglas Pereira Barreto</b>. Eu tenho 25 anos. Moro atualmente em Taubaté, SP - Brasil. Desde a adolecência sou <b>apaixonado por tecnologia</b>, por conta disto tenho facilidade em aprender rápido nesta área. Pretendo, seguir nesse ramo no decorrer da minah vida. Fiz <b>Técnico em Informática para Internet</b> pela Escola Estadual <b>ETEC</b>. Atualmente estou cursando bootcamp de desenvolvimento <b>web fullstack</b> na [Trybe](https://www.betrybe.com/).
+<a href="https://github.com/dogl4/dogl4/blob/main/README_en.md">click here to see this readme in english</a>
 
-💚 &nbsp;<b>Interesses pessoais</b>
+🙋‍♂️ &nbsp;<b>Sobre mim</b>
+
+Meu nome é <b>Pedro Douglas Pereira Barreto</b>. Eu tenho 25 anos. Moro atualmente em Taubaté, SP - Brasil. Desde a adolecência sou <b>apaixonado por tecnologia</b>, por conta disto tenho facilidade em aprender rápido nesta área. Pretendo, seguir nesse ramo no decorrer da minah vida. Fiz <b>Técnico em Informática para Internet</b> pela Escola Estadual <b>ETEC</b>. Atualmente estou cursando bootcamp de <b>desenvolvimento web fullstack</b> na [Trybe](https://www.betrybe.com/).
+
+##
+
+💖 &nbsp;<b>Interesses pessoais</b>
 
 - 🔭 &nbsp;Fascinado por tópicos de: tecnologias, investimento e qualidade de vida.
 - 🎮️ &nbsp;Eu amo jogos como Don't Starve Together e CK3.
 - 🔗 &nbsp;₿itcoin enstusiasta.
-<!-- - :open_file_folder: Este é meu portfolio: [dogla.com.br](https://dogla.com.br) -->
-<!-- - 📫 &nbsp;Feel free to get in touch with me! e-mail: doougllas@hotmail.com.br -->
 
 ##
 
@@ -112,20 +114,19 @@ Meu nome é <b style="text-indent:1.5em;">Pedro Douglas Pereira Barreto</b>. Eu 
 
 ##
 
-📊 &nbsp; <b>Github Stats (click no títulos abaixo para expandir)</b>
+📊 &nbsp; <b>Github Stats (click nos títulos abaixo para expandir)</b>
 
- <details class="left">
-    <summary>📎 &nbsp;Detalhes</summary>
+ <details>
+    <summary> </b>&nbsp;Detalhes</summary>
       <div align=center>
         <img height="156em" src="https://github-readme-stats.vercel.app/api?username=Dogl4&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=dd6387"/>
       <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dogl4&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=dd6387&locale=en&layout=compact&theme=github_dark"/>
       </div>
   </details>
  <details class="left">
-    <summary>📈 &nbsp;Recente atividade no github</summary>
+    <summary> &nbsp;Atividade recente no github</summary>
       <div align=center>
       <img height="280em" src="https://activity-graph.herokuapp.com/graph?username=Dogl4&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true"/>
       </div>
     </div>
   </details>
-    <!-- <a href="https://github.com/Dogl4/Dogl4"> -->
