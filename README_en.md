@@ -1,6 +1,6 @@
 <div align=center>
   <h1>
-    Olá, bem vindo!</br>
+    Hello, welcome!</br>
     <a href="https://www.linkedin.com/in/Dogl4/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0073b1?style=&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/Dogl4/"></a>
     <a href="mailto:doougllas@hotmail.com.br" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%3333?style=&logo=microsoftoutlook&logoColor=119ad3&link=mailto:doougllas@hotmail.com.br"></a>
     <a href="https://resume.io/r/qThDXEEhh" target="_blank"><img src="https://img.shields.io/badge/-Curriculo-dd5125?style=&logo=Read%20the%20Docs&logoColor=white"></a>
@@ -10,23 +10,23 @@
   </h1>
 </div>
 
-<a href="https://github.com/dogl4/dogl4/blob/main/README_en.md">click here to see this readme in english</a>
+<a href="https://github.com/dogl4">back to my profile</a>
 
-🙋‍♂️ &nbsp;<b>Sobre mim</b>
+🙋‍♂️ &nbsp;<b>About</b>
 
-Meu nome é <b>Pedro Douglas Pereira Barreto</b>. Eu tenho 25 anos. Moro atualmente em Taubaté, SP - Brasil. Desde a adolecência sou <b>apaixonado por tecnologia</b>, por conta disto tenho facilidade em aprender rápido nesta área. Pretendo, seguir nesse ramo no decorrer da minah vida. Fiz <b>Técnico em Informática para Internet</b> pela Escola Estadual <b>ETEC</b>. Atualmente estou cursando bootcamp de <b>desenvolvimento web fullstack</b> na [Trybe](https://www.betrybe.com/).
-
-##
-
-💖 &nbsp;<b>Interesses pessoais</b>
-
-- 🔭 &nbsp;Fascinado por tópicos de: tecnologias, investimento e qualidade de vida.
-- 🎮️ &nbsp;Eu amo jogos como Don't Starve Together e CK3.
-- 🔗 &nbsp;₿itcoin enstusiasta.
+My name is <b>Pedro Douglas Pereira Barreto</b>. I'm 25 years old. I currently live in Taubaté, SP - Brazil. Since I was a teenager I've been <b>passionate about technology</b>, that's why I find it easy to learn quickly in this area.. I intend to continue in this field throughout my life. I did <b>Technical in Computer Science for Internet</b> at Escola Estadual <b>ETEC</b>. I am currently participating in a <b>fullstack web development</b> bootcamp at [Trybe](https://www.betrybe.com/).
 
 ##
 
-🛠 &nbsp;<b>Tecnologias</b>
+💖 &nbsp;<b>Personal interests</b>
+
+- 🔭 &nbsp;Fascinated by themes of: technologies, investment and quality of life.
+- 🎮️ &nbsp;I love games how: Don't Starve Together e CK3.
+- 🔗 &nbsp;₿itcoin enthusiastic.
+
+##
+
+🛠 &nbsp;<b>Technologies</b>
 
  <div align=center>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
@@ -114,17 +114,17 @@ Meu nome é <b>Pedro Douglas Pereira Barreto</b>. Eu tenho 25 anos. Moro atualme
 
 ##
 
-📊 &nbsp; <b>Github Stats (click nos títulos abaixo para expandir)</b>
+📊 &nbsp; <b>Github Stats (click on titles below to expand)</b>
 
  <details>
-    <summary> </b>&nbsp;Detalhes</summary>
+    <summary> </b>&nbsp;Details</summary>
       <div align=center>
         <img height="156em" src="https://github-readme-stats.vercel.app/api?username=Dogl4&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=dd6387"/>
       <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dogl4&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=dd6387&locale=en&layout=compact&theme=github_dark"/>
       </div>
   </details>
  <details class="left">
-    <summary> &nbsp;Atividade recente no github</summary>
+    <summary> &nbsp;Recent activity on github</summary>
       <div align=center>
       <img height="280em" src="https://activity-graph.herokuapp.com/graph?username=Dogl4&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true"/>
       </div>
