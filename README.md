@@ -7,7 +7,7 @@
     <a href="https://dogla.com.br/projects" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-27272A?style=&logo=dogecoin&logoColor=3b99f6&link=https://dogla.com.br/projects"></a>
     <a href="https://www.t.me/doglatelegram" target="_blank"><img src="https://img.shields.io/badge/-Telegram-21759B?style=&logo=Telegram&logoColor=ffafed&link=https://www.t.me/doglatelegram"></a>
 <!--    <a href="" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=&logo=stack-overflow&logoColor=white&link=https://"></a> . . . .-->
-<!--    <a href="" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=&logo=stack-overflow&logoColor=white&link=https://"></a> . . . . . . .-->
+<!--    <a href="" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=&logo=stack-overflow&logoColor=white&link=https://"></a> . . . . . . . .-->
   </h1>
 </div>
 
