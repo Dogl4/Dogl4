@@ -1,11 +1,6 @@
 <div align=center>
   <h1>
     Hello, welcome!</br>
-    <a href="https://www.linkedin.com/in/Dogl4/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0073b1?style=&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/Dogl4/"></a>
-    <a href="mailto:doougllas@hotmail.com.br" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%3333?style=&logo=microsoftoutlook&logoColor=119ad3&link=mailto:doougllas@hotmail.com.br"></a>
-    <a href="https://docs.google.com/document/d/1cUMF3Ilb5ubHYrVeQW1YOXMWfJBhQXBz7HSvDZ_pvuE/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Curriculo-dd5125?style=&logo=Read%20the%20Docs&logoColor=white"></a>
-    <a href="https://dogla.com.br" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-27272A?style=&logo=dogecoin&logoColor=3b99f6&link=https://dogla.com.br"></a>
-    <a href="https://www.t.me/doglatelegram" target="_blank"><img src="https://img.shields.io/badge/-Telegram-21759B?style=&logo=Telegram&logoColor=ffafed&link=https://www.t.me/doglatelegram"></a>
 <!--    <a href="" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=&logo=stack-overflow&logoColor=white&link=https://"></a> -->
   </h1>
 </div>
@@ -21,7 +16,6 @@ My name is <b>Pedro Douglas Pereira Barreto</b>. I'm 25 years old. I currently l
 ### Personal interests
 
 - 💖 &nbsp;I'm fascinated by subjects as: technologies, investment and quality of life.
-- 🎮️ &nbsp;I love games like: Don't Starve Together and CK3.
 - 🔗 &nbsp;₿itcoin enthusiastic.
 
 ##
@@ -59,24 +53,11 @@ My name is <b>Pedro Douglas Pereira Barreto</b>. I'm 25 years old. I currently l
   [<img align="center" alt="Ubuntu" height="30" width="30" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />](https://ubuntu.com/ "Ubuntu")
  </div>
 
-
 ##
-#### Github Stats (click on titles below to expand)
-
- <details>
-    <summary> </b>&nbsp;Details</summary>
-      <div align=center>
-        <img height="156em" src="https://github-readme-stats.vercel.app/api?username=Dogl4&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=dd6387"/>
-      <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dogl4&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=dd6387&locale=en&layout=compact&theme=github_dark"/>
-      </div>
-  </details>
- <details class="left">
-    <summary> &nbsp;Recent activity on github</summary>
-      <div align=center>
-      <img height="280em" src="https://activity-graph.herokuapp.com/graph?username=Dogl4&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true"/>
-      </div>
-    </div>
-  </details>
+#### Github Stats
+  <div align=center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dogl4&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=dd6387&locale=en&layout=compact&theme=github_dark"/>
+  </div>
 
 ---
 ### Contacte me
@@ -86,9 +67,9 @@ My name is <b>Pedro Douglas Pereira Barreto</b>. I'm 25 years old. I currently l
 ```{r klippy, echo=FALSE, include=TRUE}
 doougllas@hotmail.com.br
 ```
-  [<img src="https://img.shields.io/badge/-Linkedin-0073b1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/Dogl4/">](https://www.linkedin.com/in/Dogl4/ "Linked-in de Pedro | linkedin.com/in/Dogl4")
-  [<img src="https://img.shields.io/badge/-Curriculo-27272A?style=for-the-badge&logo=Read%20the%20Docs&logoColor=white">](https://docs.google.com/document/d/1cUMF3Ilb5ubHYrVeQW1YOXMWfJBhQXBz7HSvDZ_pvuE/edit?usp=sharing "Curriculo de Pedro | google docs")
+  [<img src="https://img.shields.io/badge/-Linkedin-27272A?style=for-the-badge&logo=Linkedin&logoColor=0073b1&link=https://https://www.linkedin.com/in/Dogl4/">](https://www.linkedin.com/in/Dogl4/ "Linked-in de Pedro | linkedin.com/in/Dogl4")
+  [<img src="https://img.shields.io/badge/-Curriculo-27272A?style=for-the-badge&logo=Read%20the%20Docs&logoColor=3b99f6">](https://docs.google.com/document/d/1cUMF3Ilb5ubHYrVeQW1YOXMWfJBhQXBz7HSvDZ_pvuE/edit?usp=sharing "Curriculo de Pedro | google docs")
   [<img src="https://img.shields.io/badge/-Portfolio-27272A?style=for-the-badge&logo=dogecoin&logoColor=3b99f6&link=https://dogla.com.br">](https://dogla.com.br "Site do Pedro | dogla.com.br")
-  [<img src="https://img.shields.io/badge/-Telegram-0073b1?style=for-the-badge&logo=Telegram&logoColor=white&link=https://www.t.me/doglatelegram">](https://www.t.me/doglatelegram "Telegram do Pedro | @doglatelegram")
+  [<img src="https://img.shields.io/badge/-Telegram-27272A?style=for-the-badge&logo=Telegram&logoColor=3b99f6&link=https://www.t.me/doglatelegram">](https://www.t.me/doglatelegram "Telegram do Pedro | @doglatelegram")
 </b>
 </div>
