@@ -130,3 +130,18 @@ Meu nome é <b>Pedro Douglas Pereira Barreto</b>. Eu tenho 25 anos. Moro atualme
       </div>
     </div>
   </details>
+
+---
+### Contacte me
+<div align=center>
+<h4>
+
+```{r klippy, echo=FALSE, include=TRUE}
+doougllas@hotmail.com.br
+```
+  [<img src="https://img.shields.io/badge/-Linkedin-0073b1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/Dogl4/">](https://www.linkedin.com/in/Dogl4/ "Linked-in de Pedro | linkedin.com/in/Dogl4")
+  [<img src="https://img.shields.io/badge/-Curriculo-27272A?style=for-the-badge&logo=Read%20the%20Docs&logoColor=white">](https://docs.google.com/document/d/1cUMF3Ilb5ubHYrVeQW1YOXMWfJBhQXBz7HSvDZ_pvuE/edit?usp=sharing "Curriculo de Pedro | google docs")
+  [<img src="https://img.shields.io/badge/-Portfolio-27272A?style=for-the-badge&logo=dogecoin&logoColor=3b99f6&link=https://dogla.com.br">](https://dogla.com.br "Site do Pedro | dogla.com.br")
+  [<img src="https://img.shields.io/badge/-Telegram-0073b1?style=for-the-badge&logo=Telegram&logoColor=white&link=https://www.t.me/doglatelegram">](https://www.t.me/doglatelegram "Telegram do Pedro | @doglatelegram")
+</h4>
+</div>
