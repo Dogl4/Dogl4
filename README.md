@@ -12,21 +12,22 @@
 
 <a href="https://github.com/dogl4/dogl4/blob/main/README_en.md">click here to see this readme in english</a>
 
-🙋‍♂️ &nbsp;<b>Sobre mim</b>
+### Sobre mim
 
 Meu nome é <b>Pedro Douglas Pereira Barreto</b>. Eu tenho 25 anos. Moro atualmente em Taubaté, SP - Brasil. Desde a adolecência sou <b>apaixonado por tecnologia</b>, por conta disto tenho facilidade em aprender rápido nesta área. Pretendo, seguir nesse ramo no decorrer da minha vida. Fiz <b>Técnico em Informática para Internet</b> pela Escola Estadual <b>ETEC</b>. Atualmente estou cursando bootcamp de <b>desenvolvimento web fullstack</b> na [Trybe](https://www.betrybe.com/).
 
 ##
 
-💖 &nbsp;<b>Interesses pessoais</b>
+### Interesses pessoais
 
-- 🔭 &nbsp;Fascinado por tópicos de: tecnologias, investimento e qualidade de vida.
+- 💖 &nbsp;Fascinado por tópicos de: tecnologias, investimento e qualidade de vida.
 - 🎮️ &nbsp;Eu amo jogos como Don't Starve Together e CK3.
 - 🔗 &nbsp;₿itcoin enstusiasta.
 
 ##
 
-🛠 &nbsp;<b>Tecnologias</b>
+#### Tecnologias
+
  <div align=center>
 
   [<img align="center" alt="Bash" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />](https://www.gnu.org/software/bash/ "Bash")
@@ -59,8 +60,7 @@ Meu nome é <b>Pedro Douglas Pereira Barreto</b>. Eu tenho 25 anos. Moro atualme
  </div>
 
 ##
-
-📊 &nbsp; <b>Github Stats (click nos títulos abaixo para expandir)</b>
+#### Github Stats (click nos títulos abaixo para expandir)
 
  <details>
     <summary> </b>&nbsp;Detalhes</summary>
@@ -80,7 +80,7 @@ Meu nome é <b>Pedro Douglas Pereira Barreto</b>. Eu tenho 25 anos. Moro atualme
 ---
 ### Contacte me
 <div align=center>
-<h4>
+<b>
 
 ```{r klippy, echo=FALSE, include=TRUE}
 doougllas@hotmail.com.br
@@ -89,5 +89,5 @@ doougllas@hotmail.com.br
   [<img src="https://img.shields.io/badge/-Curriculo-27272A?style=for-the-badge&logo=Read%20the%20Docs&logoColor=white">](https://docs.google.com/document/d/1cUMF3Ilb5ubHYrVeQW1YOXMWfJBhQXBz7HSvDZ_pvuE/edit?usp=sharing "Curriculo de Pedro | google docs")
   [<img src="https://img.shields.io/badge/-Portfolio-27272A?style=for-the-badge&logo=dogecoin&logoColor=3b99f6&link=https://dogla.com.br">](https://dogla.com.br "Site do Pedro | dogla.com.br")
   [<img src="https://img.shields.io/badge/-Telegram-0073b1?style=for-the-badge&logo=Telegram&logoColor=white&link=https://www.t.me/doglatelegram">](https://www.t.me/doglatelegram "Telegram do Pedro | @doglatelegram")
-</h4>
+</b>
 </div>
