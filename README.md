@@ -3,7 +3,7 @@
     Olá, bem vindo!</br>
     <a href="https://www.linkedin.com/in/Dogl4/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0073b1?style=&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/Dogl4/"></a>
     <a href="mailto:doougllas@hotmail.com.br" target="_blank"><img src="https://img.shields.io/badge/-Outlook-%3333?style=&logo=microsoftoutlook&logoColor=119ad3&link=mailto:doougllas@hotmail.com.br"></a>
-    <a href="https://resume.io/r/qThDXEEhh" target="_blank"><img src="https://img.shields.io/badge/-Curriculo-dd5125?style=&logo=Read%20the%20Docs&logoColor=white"></a>
+    <a href="https://docs.google.com/document/d/1cUMF3Ilb5ubHYrVeQW1YOXMWfJBhQXBz7HSvDZ_pvuE/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Curriculo-dd5125?style=&logo=Read%20the%20Docs&logoColor=white"></a>
     <a href="https://dogla.com.br/projects" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-27272A?style=&logo=dogecoin&logoColor=3b99f6&link=https://dogla.com.br/projects"></a>
     <a href="https://www.t.me/doglatelegram" target="_blank"><img src="https://img.shields.io/badge/-Telegram-21759B?style=&logo=Telegram&logoColor=ffafed&link=https://www.t.me/doglatelegram"></a>
 <!--    <a href="" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=&logo=stack-overflow&logoColor=white&link=https://"></a> -->
