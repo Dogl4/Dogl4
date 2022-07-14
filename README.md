@@ -9,7 +9,7 @@
 
 ### Sobre mim
 
-Meu nome é <b>Pedro Douglas Pereira Barreto</b>. Eu tenho 25 anos. Moro atualmente em Taubaté, SP - Brasil. Desde a adolecência sou <b>apaixonado por tecnologia</b>, por conta disto tenho facilidade em aprender rápido nesta área. Pretendo, seguir nesse ramo no decorrer da minha vida. Fiz <b>Técnico em Informática para Internet</b> pela Escola Estadual <b>ETEC</b>. Atualmente estou cursando bootcamp de <b>desenvolvimento web fullstack</b> na [Trybe](https://www.betrybe.com/).
+Meu nome é <b>Pedro Douglas Pereira Barreto</b>. Moro atualmente em Taubaté, SP - Brasil. Desde a adolecência sou <b>apaixonado por tecnologia</b>, por conta disto tenho facilidade em aprender rápido nesta área. Pretendo, seguir nesse ramo no decorrer da minha vida. Fiz <b>Técnico em Informática para Internet</b> pela Escola Estadual <b>ETEC</b>. Atualmente estou cursando bootcamp de <b>desenvolvimento web fullstack</b> na [Trybe](https://www.betrybe.com/).
 
 ##
 
