@@ -9,7 +9,7 @@
 
 ### About
 
-My name is <b>Pedro Douglas Pereira Barreto</b>. I'm 25 years old. I currently live in Taubaté, SP - Brazil. Since I was a teenager I've been <b>passionate about technology</b>, that's why I find it easy to learn quickly in this area. I intend to continue in this field throughout my life. I did <b>Technical in Computer Science for Internet</b> at Escola Estadual <b>ETEC</b>. I am currently participating in a <b>fullstack web development</b> bootcamp at [Trybe](https://www.betrybe.com/).
+My name is <b>Pedro Douglas Pereira Barreto</b>. I currently live in Taubaté, SP - Brazil. Since I was a teenager I've been <b>passionate about technology</b>, that's why I find it easy to learn quickly in this area. I intend to continue in this field throughout my life. I did <b>Technical in Computer Science for Internet</b> at Escola Estadual <b>ETEC</b>. I am currently participating in a <b>fullstack web development</b> bootcamp at [Trybe](https://www.betrybe.com/).
 
 ##
 
