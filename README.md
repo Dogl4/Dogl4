@@ -1,7 +1,6 @@
 <div align=center>
   <h1>
     Olá, bem vindo!</br>
-<!--    <a href="" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=&logo=stack-overflow&logoColor=white&link=https://"></a> -->
   </h1>
 </div>
 
@@ -9,7 +8,7 @@
 
 ### Sobre mim
 
-Meu nome é <b>Pedro Douglas Pereira Barreto</b>. Moro atualmente em Taubaté, SP - Brasil. Desde a adolecência sou <b>apaixonado por tecnologia</b>, por conta disto tenho facilidade em aprender rápido nesta área. Pretendo, seguir nesse ramo no decorrer da minha vida. Fiz <b>Técnico em Informática para Internet</b> pela Escola Estadual <b>ETEC</b>. Atualmente estou cursando bootcamp de <b>desenvolvimento web fullstack</b> na [Trybe](https://www.betrybe.com/).
+Meu nome é <b>Pedro Douglas Pereira Barreto</b>. Moro atualmente em Taubaté, SP - Brasil. Desde a adolecência sou <b>apaixonado por tecnologia</b>, por conta disto tenho facilidade em aprender rápido nesta área. Pretendo, seguir nesse ramo no decorrer da minha vida. Fiz <b>Técnico em Informática para Internet</b> pela Escola Estadual <b>ETEC</b>. Atualmente estou cursando bootcamp de <b>desenvolvimento web fullstack</b> na [Trybe](https://www.betrybe.com/). Meu portfólio [dogla.com.br](https://dogla.com.br "Site pessoal").
 
 ##
 
@@ -61,7 +60,7 @@ Meu nome é <b>Pedro Douglas Pereira Barreto</b>. Moro atualmente em Taubaté, S
   </div>
 
 ---
-### Contacte me
+### Links
 <div align=center>
 <b>
 
@@ -69,26 +68,20 @@ Meu nome é <b>Pedro Douglas Pereira Barreto</b>. Moro atualmente em Taubaté, S
 doougllas@hotmail.com.br
 ```
   [<img height="30" width="auto" src="./img/linkedin_logo.png">](https://www.linkedin.com/in/Dogl4/ "Linkedin")
-  [<img height="30" width="auto" src="./img/email_logo.png">](mailto:doougllas@hotmail.com.br "E-mail")
   [<img  height="30" width="auto" src="./img/portfolio_logo.png">](https://dogla.com.br "Portfolio")
   [<img height="30" width="auto" src="./img/cv_logo.webp" />](https://docs.google.com/document/d/1cUMF3Ilb5ubHYrVeQW1YOXMWfJBhQXBz7HSvDZ_pvuE/edit?usp=sharing "Curriculum")
-  [<img height="30" width="auto" src="./img/youtube_logo.png" />](https://www.youtube.com/channel/UCul3uMfXR5B3SKzHRqPmBAg "You tube")
+  [<img height="30" width="auto" src="./img/email_logo.png">](mailto:doougllas@hotmail.com.br "E-mail")
   [<img height="30" width="auto" src="./img/telegran_logo.png">](https://www.t.me/doglatelegram "Telegram")
+  [<img height="30" width="auto" src="./img/hackerrank_logo.png" />](https://www.hackerrank.com/dogl4 "HackerRank")
+  [<img height="30" width="auto" src="./img/stack-overflow_logo.png" />](https://stackoverflow.com/users/19149290/dogl4 "Stack Overflow")
+  [<img height="30" width="auto" src="./img/beecrowd_logo.png" />](https://www.beecrowd.com.br/judge/pt/profile/664698 "Beecrowd")
   [<img height="30" width="auto" src="./img/docker_logo.png" />](https://hub.docker.com/u/dogl4 "Docker Hub")
   [<img height="30" width="auto" src="./img/git_lab_logo_.png" />](https://gitlab.com/Dogl4 "GitLab")
-  [<img height="30" width="auto" src="./img/stack-overflow_logo.png" />](https://stackoverflow.com/users/19149290/dogl4 "Stack Overflow")
-  [<img height="30" width="auto" src="./img/hackerrank_logo.png" />](https://www.hackerrank.com/dogl4 "HackerRank")
-  [<img height="30" width="auto" src="./img/beecrowd_logo.png" />](https://www.beecrowd.com.br/judge/pt/profile/664698 "Beecrowd")
+  [<img height="30" width="auto" src="./img/youtube_logo.png" />](https://www.youtube.com/channel/UCul3uMfXR5B3SKzHRqPmBAg "Youtube")
   [<img height="32" width="auto" src="./img/devto_logo.png" />](https://dev.to/dogl4 "Dev Blog Posts")
 </b>
-</div>
+<!-- </div>
 
 <div align=center>
-
-
-  [<img height="20" width="auto" src="https://img.shields.io/static/v1?label=stack%20overflow&message=dogl4&color=FE7A16&logo=stack-overflow&logoColor=FE7A16&link=https://stackoverflow.com/users/19149290/dogl4" />](https://stackoverflow.com/users/19149290/dogl4 "Stack Overflow")
-  [<img height="20" width="auto" src="https://img.shields.io/static/v1?label=HackerRank&message=dogl4&color=068932&logo=hackerrank&logoColor=ddd&link=https://www.hackerrank.com/dogl4" />](https://www.hackerrank.com/dogl4 "HackerRank")
-  [<img height="20" width="auto" src="https://img.shields.io/static/v1?label=beecrowd&message=dogladev&color=9b59b6&logo=bugcrowd&logoColor=9b59b6&link=https://www.beecrowd.com.br/judge/pt/profile/664698" />](https://www.beecrowd.com.br/judge/pt/profile/664698 "Beecrowd")
-
   <img height="20" width="auto" src="https://img.shields.io/static/v1?label=Discord&message=Dogl4%234618&color=5865F2&logo=discord&logoColor=fff" />
-</div>
+</div> -->
