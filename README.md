@@ -44,6 +44,7 @@ Meu nome é <b>Pedro Douglas Pereira Barreto</b>. Moro atualmente em Taubaté, S
   [<img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>](https://www.mysql.com/ "MySQL")
   [<img align="center" alt="NodeJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />](https://nodejs.org "Node")
   [<img align="center" alt="Postman" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />](https://learning.postman.com/docs/developer/intro-api/ "Postman")
+  [<img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />](https://docs.python.org/ "Python")
   [<img align="center" alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">](https://reactjs.org/ "React")
   [<img align="center" alt="Redux" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />](https://redux.js.org/ "Redux")
   [<img align="center" alt="Sequelize" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />](https://sequelize.org/ "Sequelize")
@@ -67,9 +68,27 @@ Meu nome é <b>Pedro Douglas Pereira Barreto</b>. Moro atualmente em Taubaté, S
 ```{r klippy, echo=FALSE, include=TRUE}
 doougllas@hotmail.com.br
 ```
-  [<img src="https://img.shields.io/badge/-Linkedin-27272A?style=for-the-badge&logo=Linkedin&logoColor=0073b1&link=https://https://www.linkedin.com/in/Dogl4/">](https://www.linkedin.com/in/Dogl4/ "Linked-in de Pedro | linkedin.com/in/Dogl4")
-  [<img src="https://img.shields.io/badge/-Curriculo-27272A?style=for-the-badge&logo=Read%20the%20Docs&logoColor=3b99f6">](https://docs.google.com/document/d/1cUMF3Ilb5ubHYrVeQW1YOXMWfJBhQXBz7HSvDZ_pvuE/edit?usp=sharing "Curriculo de Pedro | google docs")
-  [<img src="https://img.shields.io/badge/-Portfolio-27272A?style=for-the-badge&logo=dogecoin&logoColor=3b99f6&link=https://dogla.com.br">](https://dogla.com.br "Site do Pedro | dogla.com.br")
-  [<img src="https://img.shields.io/badge/-Telegram-27272A?style=for-the-badge&logo=Telegram&logoColor=3b99f6&link=https://www.t.me/doglatelegram">](https://www.t.me/doglatelegram "Telegram do Pedro | @doglatelegram")
+  [<img height="30" width="auto" src="./img/linkedin_logo.png">](https://www.linkedin.com/in/Dogl4/ "Linkedin")
+  [<img height="30" width="auto" src="./img/email_logo.png">](mailto:doougllas@hotmail.com.br "E-mail")
+  [<img  height="30" width="auto" src="./img/portfolio_logo.png">](https://dogla.com.br "Portfolio")
+  [<img height="30" width="auto" src="./img/cv_logo.webp" />](https://docs.google.com/document/d/1cUMF3Ilb5ubHYrVeQW1YOXMWfJBhQXBz7HSvDZ_pvuE/edit?usp=sharing "Curriculum")
+  [<img height="30" width="auto" src="./img/youtube_logo.png" />](https://www.youtube.com/channel/UCul3uMfXR5B3SKzHRqPmBAg "You tube")
+  [<img height="30" width="auto" src="./img/telegran_logo.png">](https://www.t.me/doglatelegram "Telegram")
+  [<img height="30" width="auto" src="./img/docker_logo.png" />](https://hub.docker.com/u/dogl4 "Docker Hub")
+  [<img height="30" width="auto" src="./img/git_lab_logo_.png" />](https://gitlab.com/Dogl4 "GitLab")
+  [<img height="30" width="auto" src="./img/stack-overflow_logo.png" />](https://stackoverflow.com/users/19149290/dogl4 "Stack Overflow")
+  [<img height="30" width="auto" src="./img/hackerrank_logo.png" />](https://www.hackerrank.com/dogl4 "HackerRank")
+  [<img height="30" width="auto" src="./img/beecrowd_logo.png" />](https://www.beecrowd.com.br/judge/pt/profile/664698 "Beecrowd")
+  [<img height="32" width="auto" src="./img/devto_logo.png" />](https://dev.to/dogl4 "Dev Blog Posts")
 </b>
+</div>
+
+<div align=center>
+
+
+  [<img height="20" width="auto" src="https://img.shields.io/static/v1?label=stack%20overflow&message=dogl4&color=FE7A16&logo=stack-overflow&logoColor=FE7A16&link=https://stackoverflow.com/users/19149290/dogl4" />](https://stackoverflow.com/users/19149290/dogl4 "Stack Overflow")
+  [<img height="20" width="auto" src="https://img.shields.io/static/v1?label=HackerRank&message=dogl4&color=068932&logo=hackerrank&logoColor=ddd&link=https://www.hackerrank.com/dogl4" />](https://www.hackerrank.com/dogl4 "HackerRank")
+  [<img height="20" width="auto" src="https://img.shields.io/static/v1?label=beecrowd&message=dogladev&color=9b59b6&logo=bugcrowd&logoColor=9b59b6&link=https://www.beecrowd.com.br/judge/pt/profile/664698" />](https://www.beecrowd.com.br/judge/pt/profile/664698 "Beecrowd")
+
+  <img height="20" width="auto" src="https://img.shields.io/static/v1?label=Discord&message=Dogl4%234618&color=5865F2&logo=discord&logoColor=fff" />
 </div>
