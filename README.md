@@ -60,28 +60,43 @@ Meu nome é <b>Pedro Douglas Pereira Barreto</b>. Moro atualmente em Taubaté, S
   </div>
 
 ---
+
 ### Links
+
 <div align=center>
-<b>
 
 ```{r klippy, echo=FALSE, include=TRUE}
 doougllas@hotmail.com.br
 ```
-  [<img height="30" width="auto" src="./img/linkedin_logo.png">](https://www.linkedin.com/in/Dogl4/ "Linkedin")
-  [<img  height="30" width="auto" src="./img/portfolio_logo.png">](https://dogla.com.br "Portfolio")
-  [<img height="30" width="auto" src="./img/cv_logo.webp" />](https://docs.google.com/document/d/1cUMF3Ilb5ubHYrVeQW1YOXMWfJBhQXBz7HSvDZ_pvuE/edit?usp=sharing "Curriculum")
-  [<img height="30" width="auto" src="./img/email_logo.png">](mailto:doougllas@hotmail.com.br "E-mail")
-  [<img height="30" width="auto" src="./img/telegran_logo.png">](https://www.t.me/doglatelegram "Telegram")
-  [<img height="30" width="auto" src="./img/hackerrank_logo.png" />](https://www.hackerrank.com/dogl4 "HackerRank")
-  [<img height="30" width="auto" src="./img/stack-overflow_logo.png" />](https://stackoverflow.com/users/19149290/dogl4 "Stack Overflow")
-  [<img height="30" width="auto" src="./img/beecrowd_logo.png" />](https://www.beecrowd.com.br/judge/pt/profile/664698 "Beecrowd")
-  [<img height="30" width="auto" src="./img/docker_logo.png" />](https://hub.docker.com/u/dogl4 "Docker Hub")
-  [<img height="30" width="auto" src="./img/git_lab_logo_.png" />](https://gitlab.com/Dogl4 "GitLab")
-  [<img height="30" width="auto" src="./img/youtube_logo.png" />](https://www.youtube.com/channel/UCul3uMfXR5B3SKzHRqPmBAg "Youtube")
-  [<img height="32" width="auto" src="./img/devto_logo.png" />](https://dev.to/dogl4 "Dev Blog Posts")
-</b>
-<!-- </div>
+
+<div align=left>
+
+  [<img height="30" align="center" width="auto" src="./img/linkedin_logo.png">](https://www.linkedin.com/in/Dogl4/ "Linkedin")
+  [<img align="center" height="30" width="auto" src="./img/portfolio_logo.png">](https://dogla.com.br "Portfolio")
+  [<img align="center" height="30" width="auto" src="./img/cv_logo.webp" />](https://docs.google.com/document/d/1cUMF3Ilb5ubHYrVeQW1YOXMWfJBhQXBz7HSvDZ_pvuE/edit?usp=sharing "Curriculum")
+  [<img align="center" height="30" width="auto" src="./img/email_logo.png">](mailto:doougllas@hotmail.com.br "E-mail")
+  [<img align="center" height="30" width="auto" src="./img/telegran_logo.png">](https://www.t.me/doglatelegram "Telegram")
+
+</div>
 
 <div align=center>
-  <img height="20" width="auto" src="https://img.shields.io/static/v1?label=Discord&message=Dogl4%234618&color=5865F2&logo=discord&logoColor=fff" />
-</div> -->
+
+  [<img align="center" height="30" width="auto" src="./img/hackerrank_logo.png" />](https://www.hackerrank.com/dogl4 "HackerRank") 
+  [<img align="center" height="30" width="auto" src="./img/stack-overflow_logo.png" />](https://stackoverflow.com/users/19149290/dogl4 "Stack Overflow") 
+  [<img align="center" height="30" width="auto" src="./img/beecrowd_logo.png" />](https://www.beecrowd.com.br/judge/pt/profile/664698 "Beecrowd")
+  [<img align="center" height="30" width="auto" src="./img/docker_logo.png" />](https://hub.docker.com/u/dogl4 "Docker Hub") 
+  [<img align="center" height="30" width="auto" src="./img/git_lab_logo_.png" />](https://gitlab.com/Dogl4 "GitLab")
+  [<img align="center" height="30" width="auto" src="./img/youtube_logo.png" />](https://www.youtube.com/channel/UCul3uMfXR5B3SKzHRqPmBAg "Youtube") 
+  [<img align="center" height="30" width="auto" src="./img/alura_logo.png" />](https://cursos.alura.com.br/user/dogladev "Alura")
+  [<img align="center" height="32" width="auto" src="./img/devto_logo.png" />](https://dev.to/dogl4 "Dev Blog Posts") 
+  [<img align="center" height="32" width="auto" src="./img/steam_logo.png" />](https://steamcommunity.com/profiles/76561198053206541 "Steam") 
+
+</div>
+
+</div>
+
+<div align=right>
+
+  ![](https://img.shields.io/static/v1?label=Discord&message=Dogl4%234618&color=5865F2&logo=discord&logoColor=fff)
+
+</div>
