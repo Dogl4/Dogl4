@@ -20,7 +20,7 @@ Meu nome é <b>Pedro Douglas Pereira Barreto</b>. Moro atualmente em Taubaté, S
 ##
 
 #### Tecnologias
- 
+
  <div align=center>
 
   [<img align="center" alt="Bash" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />](https://www.gnu.org/software/bash/ "Bash")
@@ -60,6 +60,7 @@ Meu nome é <b>Pedro Douglas Pereira Barreto</b>. Moro atualmente em Taubaté, S
   </div>
 
 ---
+
 ### Links
 
 <div align=center>
@@ -97,6 +98,5 @@ doougllas@hotmail.com.br
 <div align=right>
 
   ![](https://img.shields.io/static/v1?label=Discord&message=Dogl4%234618&color=5865F2&logo=discord&logoColor=fff)
-
 
 </div>
