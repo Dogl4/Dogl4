@@ -54,12 +54,6 @@ My name is <b>Pedro Douglas Pereira Barreto</b>. I currently live in Taubaté, S
  </div>
 
 ##
-#### Github Stats
-  <div align=center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dogl4&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=dd6387&locale=en&layout=compact&theme=github_dark"/>
-  </div>
-
----
 
 ### Links
 
