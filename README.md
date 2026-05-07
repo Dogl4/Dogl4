@@ -21,7 +21,7 @@ Meu nome é <b>Pedro Douglas Pereira Barreto</b>. Moro atualmente em Taubaté, S
 
 #### Tecnologias
 
- <div align=center>
+ <div align=left>
 
   [<img align="center" alt="Bash" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />](https://www.gnu.org/software/bash/ "Bash")
   [<img align="center" alt="Bootstrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />](https://getbootstrap.com "Bootstrap")
